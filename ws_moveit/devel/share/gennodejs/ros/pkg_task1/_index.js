@@ -1,0 +1,1 @@
+/home/arunava/ws_moveit/devel/.private/pkg_task1/share/gennodejs/ros/pkg_task1/_index.js

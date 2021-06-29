@@ -1,0 +1,5 @@
+pkg_task3
+/home/arunava/ws_moveit/devel/.private/pkg_task3/cmake.lock /home/arunava/ws_moveit/devel/./cmake.lock
+/home/arunava/ws_moveit/devel/.private/pkg_task3/lib/pkgconfig/pkg_task3.pc /home/arunava/ws_moveit/devel/lib/pkgconfig/pkg_task3.pc
+/home/arunava/ws_moveit/devel/.private/pkg_task3/share/pkg_task3/cmake/pkg_task3Config-version.cmake /home/arunava/ws_moveit/devel/share/pkg_task3/cmake/pkg_task3Config-version.cmake
+/home/arunava/ws_moveit/devel/.private/pkg_task3/share/pkg_task3/cmake/pkg_task3Config.cmake /home/arunava/ws_moveit/devel/share/pkg_task3/cmake/pkg_task3Config.cmake

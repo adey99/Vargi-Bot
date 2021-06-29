@@ -1,0 +1,60 @@
+[  0%] Built target _hrwros_gazebo_generate_messages_check_deps_LogicalCameraImage
+[  0%] Built target _hrwros_gazebo_generate_messages_check_deps_Model
+[  0%] Built target _hrwros_gazebo_generate_messages_check_deps_VacuumGripperState
+[  0%] Built target _hrwros_gazebo_generate_messages_check_deps_ConveyorBeltState
+[  0%] Built target _hrwros_gazebo_generate_messages_check_deps_VacuumGripperControl
+[  0%] Built target _hrwros_gazebo_generate_messages_check_deps_Proximity
+[  0%] Built target _hrwros_gazebo_generate_messages_check_deps_ConveyorBeltControl
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target SideContactPlugin[0m
+[  1%] [32mBuilding CXX object CMakeFiles/SideContactPlugin.dir/src/plugins/SideContactPlugin.cc.o[0m
+[  3%] [32m[1mLinking CXX shared library /home/arunava/ws_moveit/devel/.private/hrwros_gazebo/lib/libSideContactPlugin.so[0m
+[  3%] Built target SideContactPlugin
+[35m[1mScanning dependencies of target ProximityRayPlugin[0m
+[  5%] [32mBuilding CXX object CMakeFiles/ProximityRayPlugin.dir/src/plugins/ProximityRayPlugin.cc.o[0m
+[  6%] [32m[1mLinking CXX shared library /home/arunava/ws_moveit/devel/.private/hrwros_gazebo/lib/libProximityRayPlugin.so[0m
+[  6%] Built target ProximityRayPlugin
+[  8%] [32m[1mLinking CXX shared library /home/arunava/ws_moveit/devel/.private/hrwros_gazebo/lib/liburdf_creator.so[0m
+[ 10%] Built target urdf_creator
+[35m[1mScanning dependencies of target VacuumGripperPlugin[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/VacuumGripperPlugin.dir/src/plugins/VacuumGripperPlugin.cc.o[0m
+[ 13%] [32m[1mLinking CXX shared library /home/arunava/ws_moveit/devel/.private/hrwros_gazebo/lib/libVacuumGripperPlugin.so[0m
+[ 13%] Built target VacuumGripperPlugin
+[ 15%] [32m[1mLinking CXX shared library /home/arunava/ws_moveit/devel/.private/hrwros_gazebo/lib/libconveyor_spawner.so[0m
+[ 16%] Built target conveyor_spawner
+[ 16%] Built target hrwros_gazebo_xacro_generated_to_devel_space_
+[ 28%] Built target hrwros_gazebo_generate_messages_nodejs
+[ 43%] Built target hrwros_gazebo_generate_messages_py
+[ 55%] Built target hrwros_gazebo_generate_messages_lisp
+[ 68%] Built target hrwros_gazebo_generate_messages_eus
+[ 80%] Built target hrwros_gazebo_generate_messages_cpp
+[35m[1mScanning dependencies of target ObjectDisposalPlugin[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/ObjectDisposalPlugin.dir/src/plugins/ObjectDisposalPlugin.cc.o[0m
+[ 83%] [32m[1mLinking CXX shared library /home/arunava/ws_moveit/devel/.private/hrwros_gazebo/lib/libObjectDisposalPlugin.so[0m
+[ 83%] Built target ObjectDisposalPlugin
+[ 85%] [32m[1mLinking CXX executable /home/arunava/ws_moveit/devel/.private/hrwros_gazebo/lib/hrwros_gazebo/urdf_creator_test_node[0m
+[ 86%] Built target urdf_creator_test_node
+[35m[1mScanning dependencies of target ROSVacuumGripperPlugin[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/ROSVacuumGripperPlugin.dir/src/plugins/ROSVacuumGripperPlugin.cc.o[0m
+[ 90%] [32m[1mLinking CXX shared library /home/arunava/ws_moveit/devel/.private/hrwros_gazebo/lib/libROSVacuumGripperPlugin.so[0m
+[ 90%] Built target ROSVacuumGripperPlugin
+[ 91%] [32m[1mLinking CXX executable /home/arunava/ws_moveit/devel/.private/hrwros_gazebo/lib/hrwros_gazebo/conveyor_spawner_node[0m
+[ 93%] Built target conveyor_spawner_node
+[ 93%] Built target hrwros_gazebo_generate_messages
+[35m[1mScanning dependencies of target ROSProximityRayPlugin[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/ROSProximityRayPlugin.dir/src/plugins/ROSProximityRayPlugin.cc.o[0m
+[ 96%] [32m[1mLinking CXX shared library /home/arunava/ws_moveit/devel/.private/hrwros_gazebo/lib/libROSProximityRayPlugin.so[0m
+[ 96%] Built target ROSProximityRayPlugin
+[35m[1mScanning dependencies of target ROSLogicalCameraPlugin[0m
+[ 98%] [32mBuilding CXX object CMakeFiles/ROSLogicalCameraPlugin.dir/src/plugins/ROSLogicalCameraPlugin.cc.o[0m
+[100%] [32m[1mLinking CXX shared library /home/arunava/ws_moveit/devel/.private/hrwros_gazebo/lib/libROSLogicalCameraPlugin.so[0m
+[100%] Built target ROSLogicalCameraPlugin

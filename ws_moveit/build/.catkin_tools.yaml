@@ -1,0 +1,6 @@
+devel_space: /home/arunava/ws_moveit/devel
+install: false
+install_space: /home/arunava/ws_moveit/install
+profile: default
+source_space: /home/arunava/ws_moveit/src
+workspace: /home/arunava/ws_moveit

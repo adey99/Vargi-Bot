@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/arunava/ws_moveit/devel/.private/pkg_cv_example/setup.sh
